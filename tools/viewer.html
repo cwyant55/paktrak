@@ -1,0 +1,17 @@
+<div ng-controller="arkController">
+	<h2>Document Viewer</h2>
+
+	<div ng-init="getRecords('docs')">
+
+	<form>
+	<div class="form-group">
+    <label for="ark">Select an ARK ID:</label>
+	<select id="ark" ng-model="temp.ark" ng-options="record.arkid for record in records.list"/>
+	</div>
+
+	<button class="btn btn-primary" ng-click="viewXML()">View Document</button>
+	</form>
+
+	<div id="docview" class="none"><pre><!--retrieved document goes here --></pre></div>
+
+</div>
