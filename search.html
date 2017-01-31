@@ -1,0 +1,48 @@
+<!doctype html>
+<html ng-app="awApp">
+<base href="/" />
+<head>
+<title>ArchivesWest.js</title>
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet">
+<link href="/css/style.css" rel="stylesheet">
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+<script src = "https://ajax.googleapis.com/ajax/libs/angularjs/1.5.7/angular.min.js"></script>
+<script src = "/js/app.js"></script>
+<script src = "/js/controller.js"></script>
+<script src = "/js/service.js"></script>
+</head>
+
+<body>
+	<div ng-include="'/templates/header.html'"></div>
+	<div id="main">
+	<!-- stuff goes here -->
+
+	<div class="container" ng-controller="searchController">
+		<div class="jumbotron">
+		<h1>Search</h1>
+  </div>
+
+	<form class="well form-search">
+		<label>Search:</label>
+		<input type="text" ng-model="keywords" class="input-medium search-query" placeholder="Keywords...">
+		<button type="submit" class="btn" ng-click="getResults()">Search</button>
+    </form>
+
+	 <table class="table table-striped">
+                <tr>
+                    <th width="5%">#</th>
+                    <th width="20%">ARK ID</th>
+                    <th width="75%">Title</th>
+                </tr>
+                <tr ng-repeat="result in results">
+                    <td>{{$index + 1}}</td>
+                    <td><a href="/view.html?ark={{result.id}}" target="_self">{{result.id}}</a></td>
+                    <td>{{result.title[0]}}</td>
+                </tr>
+            </table>
+
+	</div> <!-- main -->
+</body>
+</html>

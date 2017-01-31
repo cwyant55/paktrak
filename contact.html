@@ -1,0 +1,44 @@
+<!doctype html>
+<html ng-app="awApp">
+<base href="/" />
+<head>
+<title>ArchivesWest.js</title>
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet">
+<link href="/css/style.css" rel="stylesheet">
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+<script src = "https://ajax.googleapis.com/ajax/libs/angularjs/1.5.7/angular.min.js"></script>
+<script src = "/js/app.js"></script>
+<script src = "/js/controller.js"></script>
+<script src = "/js/service.js"></script>
+</head>
+
+<body>
+	<div ng-include="'/templates/header.html'"></div>
+	<div id="main">
+	<!-- stuff goes here -->
+
+	<div class="container" ng-controller="indexController" ng-init="getRecords('repositories')">
+    <div class="row">
+    	<h2>Contact</h2>
+        <div class="panel panel-default users-content">
+            <div class="alert alert-danger none"><p></p></div>
+            <div class="alert alert-success none"><p></p></div>
+            <table class="table table-striped">
+                <tr>
+                    <th width="25%">Name</th>
+                    <th width="75%">Collection Info</th>
+                </tr>
+                <tr ng-repeat="record in records.list">
+                    <td><a href="{{record.url}}">{{record.name}}</a></td>
+                    <td>{{record.collectioninfo}}</td>
+                </tr>
+            </table>
+        </div>
+    </div>
+</div>
+
+	</div> <!-- main -->
+</body>
+</html>
