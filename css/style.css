@@ -1,5 +1,7 @@
-/* required style*/ 
-.none{display: none;}
+/* required style*/
+.none {
+  display: none;
+}
 
 /* optional styles */
 table tr th, table tr td{font-size: 1.2rem;}
@@ -13,4 +15,41 @@ a.glyphicon{text-decoration: none;cursor: pointer;}
     border-radius: 0;
     margin-top: 10px;
     margin-left: 10px;
+}
+
+.navbar {
+    font-size: 12px;
+    background-color: #eceff1;
+    letter-spacing: .3em;
+}
+
+.logo {
+  background-color: #b0bec5;
+}
+
+.logo h1 {
+  font-family: 'Raleway', sans-serif;
+  font-size: 80px;
+  color: #f0f4c3;
+  text-shadow: 4px 4px #827717;
+}
+
+.logo span {
+  font-weight: 700;
+  font-size: 16px;
+  color: #546e7a;
+  letter-spacing: .4em;
+}
+
+.centered {
+  text-align: center;
+}
+
+#map {
+  height: 400px;
+  width: 100%;
+}
+
+.login {
+  margin-right: 15px;
 }

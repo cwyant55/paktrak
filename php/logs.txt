@@ -1,1151 +1,167 @@
-From action.php - {"table":"docs","where":"created","value":"IS NOT NULL"}
-From DB.php - SELECT * FROM docs
-From DB.php - SELECT * FROM docs
-From action.php - {"table":"docs","where":"created","value":"IS NOT NULL"}
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
-From action.php - {"table":"repositories"}
-From DB.php - SELECT * FROM repositories
-From DB.php - SELECT * FROM repositories
-From DB.php - SELECT * FROM docs
-From DB.php - SELECT * FROM docs
-From DB.php - SELECT * FROM repositories
-From DB.php - SELECT * FROM repositories
-From action.php - {"table":"repositories"}
-From DB.php - SELECT * FROM repositories
-From DB.php - SELECT * FROM repositories
-From action.php - {"table":"repositories"}
-From DB.php - SELECT * FROM repositories
-From DB.php - SELECT * FROM repositories
-From action.php - {"table":"docs","where":"created","value":"IS NOT NULL"}
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
-From action.php - {"table":"repositories"}
-From DB.php - SELECT * FROM repositories
-From DB.php - SELECT * FROM repositories
-From action.php - {"table":"docs"}
-From DB.php - SELECT * FROM docs
-From DB.php - SELECT * FROM docs
-From action.php - {"table":"repositories"}
-From DB.php - SELECT * FROM repositories
-From DB.php - SELECT * FROM repositories
-From action.php - {"table":"docs","where":"created","value":"IS NOT NULL"}
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
-From action.php - {"table":"repositories"}
-From DB.php - SELECT * FROM repositories
-From DB.php - SELECT * FROM repositories
-From DB.php - SELECT * FROM repositories
-From DB.php - SELECT * FROM repositories
-From action.php - {"table":"docs","where":"created","value":"IS NOT NULL"}
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
 From action.php - {"where":"created","value":"IS NOT NULL"}
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
-From DB.php - SELECT * FROM repositories
-From DB.php - SELECT * FROM repositories
-From DB.php - SELECT * FROM docs
-From DB.php - SELECT * FROM docs
-From DB.php - SELECT * FROM repositories
-From DB.php - SELECT * FROM repositories
-From DB.php - SELECT * FROM users
-From DB.php - SELECT * FROM users
 From action.php - {"where":"created","value":"IS NOT NULL"}
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
 From action.php - {"where":"created","value":"IS NOT NULL"}
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
-From DB.php - SELECT * FROM users
-From DB.php - SELECT * FROM users
-From DB.php - SELECT * FROM docs
-From DB.php - SELECT * FROM docs
-From DB.php - SELECT * FROM repositories
-From DB.php - SELECT * FROM repositories
-From DB.php - SELECT * FROM docs
-From DB.php - SELECT * FROM docs
-From DB.php - SELECT * FROM repositories
-From DB.php - SELECT * FROM repositories
 From action.php - {"where":"created","value":"IS NOT NULL"}
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
 From action.php - {"where":"created","value":"IS NOT NULL"}
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
-From DB.php - SELECT * FROM users
-From DB.php - SELECT * FROM users
-From DB.php - SELECT * FROM docs
-From DB.php - SELECT * FROM docs
-From DB.php - SELECT * FROM repositories
-From DB.php - SELECT * FROM repositories
-From DB.php - SELECT * FROM docs
-From DB.php - SELECT * FROM docs
-From DB.php - SELECT * FROM repositories
-From DB.php - SELECT * FROM repositories
 From action.php - {"where":"created","value":"IS NOT NULL"}
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
-From DB.php - SELECT * FROM repositories
-From DB.php - SELECT * FROM repositories
-From DB.php - SELECT * FROM docs
-From DB.php - SELECT * FROM docs
-From DB.php - SELECT * FROM repositories
-From DB.php - SELECT * FROM repositories
-From DB.php - SELECT * FROM users
-From DB.php - SELECT * FROM users
-From DB.php - SELECT * FROM docs
-From DB.php - SELECT * FROM docs
-From DB.php - SELECT * FROM docs
-From DB.php - SELECT * FROM docs
-From DB.php - SELECT * FROM docs
-From DB.php - SELECT * FROM docs
-From DB.php - SELECT * FROM docs
-From DB.php - SELECT * FROM docs
-From DB.php - SELECT * FROM docs
-From DB.php - SELECT * FROM docs
-From DB.php - SELECT * FROM repositories
-From DB.php - SELECT * FROM repositories
-From DB.php - SELECT * FROM docs
-From DB.php - SELECT * FROM docs
-From DB.php - SELECT * FROM docs
-From DB.php - SELECT * FROM docs
-From DB.php - SELECT * FROM docs
-From DB.php - SELECT * FROM docs
-From DB.php - SELECT * FROM docs
-From DB.php - SELECT * FROM docs
-From DB.php - SELECT * FROM users
-From DB.php - SELECT * FROM users
-From DB.php - SELECT * FROM users
-From DB.php - SELECT * FROM users
-From DB.php - SELECT * FROM docs
-From DB.php - SELECT * FROM docs
-From DB.php - SELECT * FROM repositories
-From DB.php - SELECT * FROM repositories
-From DB.php - SELECT * FROM docs
-From DB.php - SELECT * FROM docs
-From DB.php - SELECT * FROM users
-From DB.php - SELECT * FROM users
-From DB.php - SELECT * FROM docs
-From DB.php - SELECT * FROM docs
-From DB.php - SELECT * FROM repositories
-From DB.php - SELECT * FROM repositories
-From DB.php - SELECT * FROM repositories
-From DB.php - SELECT * FROM repositories
 From action.php - {"where":"created","value":"IS NOT NULL"}
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
 From action.php - {"where":"created","value":"IS NOT NULL"}
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
-From DB.php - SELECT * FROM users
-From DB.php - SELECT * FROM users
-From DB.php - SELECT * FROM docs
-From DB.php - SELECT * FROM docs
 From action.php - {"where":"created","value":"IS NOT NULL"}
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
 From action.php - {"where":"created","value":"IS NOT NULL"}
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
 From action.php - {"where":"created","value":"IS NOT NULL"}
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
-From DB.php - SELECT * FROM repositories
-From DB.php - SELECT * FROM repositories
-From DB.php - SELECT * FROM repositories
-From DB.php - SELECT * FROM repositories
 From action.php - {"where":"created","value":"IS NOT NULL"}
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
 From action.php - {"where":"created","value":"IS NOT NULL"}
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
-From DB.php - SELECT * FROM repositories
-From DB.php - SELECT * FROM repositories
-From DB.php - SELECT * FROM repositories
-From DB.php - SELECT * FROM repositories
-From DB.php - SELECT * FROM repositories
-From DB.php - SELECT * FROM repositories
-From DB.php - SELECT * FROM repositories
-From DB.php - SELECT * FROM repositories
-From DB.php - SELECT * FROM repositories
-From DB.php - SELECT * FROM repositories
-From DB.php - SELECT * FROM repositories
-From DB.php - SELECT * FROM repositories
 From action.php - {"where":"created","value":"IS NOT NULL"}
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
-From DB.php - SELECT * FROM repositories
-From DB.php - SELECT * FROM repositories
 From action.php - {"where":"created","value":"IS NOT NULL"}
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
 From action.php - {"where":"created","value":"IS NOT NULL"}
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
-From DB.php - SELECT * FROM repositories
-From DB.php - SELECT * FROM repositories
 From action.php - {"where":"created","value":"IS NOT NULL"}
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
-From DB.php - SELECT * FROM repositories
-From DB.php - SELECT * FROM repositories
 From action.php - {"where":"created","value":"IS NOT NULL"}
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
-From DB.php - SELECT * FROM repositories
-From DB.php - SELECT * FROM repositories
-From DB.php - SELECT * FROM repositories
-From DB.php - SELECT * FROM repositories
 From action.php - {"where":"created","value":"IS NOT NULL"}
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
-From DB.php - SELECT * FROM docs
-From DB.php - SELECT * FROM docs
 From action.php - {"where":"created","value":"IS NOT NULL"}
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
 From action.php - {"where":"created","value":"IS NOT NULL"}
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
-From DB.php - SELECT * FROM users
-From DB.php - SELECT * FROM users
-From DB.php - SELECT * FROM repositories
-From DB.php - SELECT * FROM repositories
-From DB.php - SELECT * FROM repositories
-From DB.php - SELECT * FROM repositories
-From DB.php - SELECT * FROM repositories
-From DB.php - SELECT * FROM repositories
-From DB.php - SELECT * FROM repositories
-From DB.php - SELECT * FROM repositories
-From DB.php - SELECT * FROM repositories
-From DB.php - SELECT * FROM repositories
-From DB.php - SELECT * FROM repositories
-From DB.php - SELECT * FROM repositories
-From DB.php - SELECT * FROM repositories
-From DB.php - SELECT * FROM repositories
-From DB.php - SELECT * FROM repositories
-From DB.php - SELECT * FROM repositories
 From action.php - {"where":"created","value":"IS NOT NULL"}
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
-From DB.php - SELECT * FROM users
-From DB.php - SELECT * FROM users
 From action.php - {"where":"created","value":"IS NOT NULL"}
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
 From action.php - {"where":"created","value":"IS NOT NULL"}
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
-From DB.php - SELECT * FROM repositories
-From DB.php - SELECT * FROM repositories
-From action.php - {"where":"arkid","value":"80444/xv98514"}
-From DB.php - SELECT * FROM docs WHERE arkid 80444/xv98514
-From action.php - {"where":"arkid","value":"80444/xv98514"}
-From DB.php - SELECT * FROM docs WHERE arkid 80444/xv98514
-From action.php - {"where":"arkid","value":"80444/xv98514"}
-From DB.php - SELECT * FROM docs WHERE arkid 80444/xv98514
-From action.php - {"where":"arkid","value":"80444/xv98514"}
-From DB.php - SELECT * FROM docs WHERE arkid 80444/xv98514
-From action.php - {"where":"arkid","value":"80444/xv98514"}
-From DB.php - SELECT * FROM docs WHERE arkid 80444/xv98514
-From action.php - {"where":"arkid","value":"= ark"}
-From DB.php - SELECT * FROM docs WHERE arkid = ark
-From action.php - {"where":"arkid","value":"80444/xv98514"}
-From DB.php - SELECT * FROM docs WHERE arkid 80444/xv98514
-From action.php - {"where":"arkid","value":"= 80444/xv98514"}
-From DB.php - SELECT * FROM docs WHERE arkid = 80444/xv98514
-From action.php - {"where":"arkid","value":"= 80444/xv98514"}
-From DB.php - SELECT * FROM docs WHERE arkid = 80444/xv98514
-From DB.php - SELECT * FROM repositories
-From DB.php - SELECT * FROM repositories
 From action.php - {"where":"created","value":"IS NOT NULL"}
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
 From action.php - {"where":"created","value":"IS NOT NULL"}
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
 From action.php - {"where":"created","value":"IS NOT NULL"}
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
-From action.php - {"where":"arkid","value":"= 80444/xv98514"}
-From DB.php - SELECT * FROM docs WHERE arkid = 80444/xv98514
-From action.php - {"where":"arkid","value":"= ''80444/xv98514''"}
-From DB.php - SELECT * FROM docs WHERE arkid = ''80444/xv98514''
-From action.php - {"where":"arkid","value":"= ''80444/xv98514''"}
-From DB.php - SELECT * FROM docs WHERE arkid = ''80444/xv98514''
-From action.php - {"where":"arkid","value":"= ''80444/xv98514''"}
-From DB.php - SELECT * FROM docs WHERE arkid = ''80444/xv98514''
-From action.php - {"where":"arkid","value":"= ''80444/xv98514''"}
-From DB.php - SELECT * FROM docs WHERE arkid = ''80444/xv98514''
 From action.php - {"where":"created","value":"IS NOT NULL"}
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
-From DB.php - SELECT * FROM repositories
-From DB.php - SELECT * FROM repositories
 From action.php - {"where":"created","value":"IS NOT NULL"}
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
-From action.php - {"where":"arkid","value":"= ''80444/xv4801''"}
-From DB.php - SELECT * FROM docs WHERE arkid = ''80444/xv4801''
-From action.php - {"where":"arkid","value":"= 80444/xv4801"}
-From DB.php - SELECT * FROM docs WHERE arkid = 80444/xv4801
-From action.php - {"where":"arkid","value":"= 80444/xv4801"}
-From DB.php - SELECT * FROM docs WHERE arkid = 80444/xv4801
-From action.php - {"where":"arkid","value":"= 80444/xv4801"}
-From DB.php - SELECT * FROM docs WHERE arkid = 80444/xv4801
-From action.php - {"where":"arkid","value":"= 80444/xv4801"}
-From DB.php - SELECT * FROM docs WHERE arkid = 80444/xv4801
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
 From action.php - {"where":"created","value":"IS NOT NULL"}
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
 From action.php - {"where":"created","value":"IS NOT NULL"}
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
 From action.php - {"where":"created","value":"IS NOT NULL"}
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
-From DB.php - SELECT * FROM repositories
-From DB.php - SELECT * FROM repositories
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
 From action.php - {"where":"created","value":"IS NOT NULL"}
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/4198'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/4198'
-From action.php - {"where":"arkid","value":"= '80444/xv4198'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4198'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4198'
-From action.php - {"where":"arkid","value":"= '80444/xv4198'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4198'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4198'
-From action.php - {"where":"arkid","value":"= '80444/xv4198'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4198'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4198'
-From action.php - {"where":"arkid","value":"= '80444/xv4198'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4198'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4198'
-From action.php - {"where":"arkid","value":"= '80444/xv4198'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4198'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4198'
-From action.php - {"where":"arkid","value":"= '80444/xv4198'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4198'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4198'
-From action.php - {"where":"arkid","value":"= '80444/xv4198'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4198'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4198'
-From action.php - {"where":"arkid","value":"= '80444/xv4198'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4198'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4198'
-From action.php - {"where":"arkid","value":"= '80444/xv4198'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4198'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4198'
-From action.php - {"where":"arkid","value":"= '80444/xv4198'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4198'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4198'
-From action.php - {"where":"arkid","value":"= '80444/xv4198'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4198'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4198'
-From action.php - {"where":"arkid","value":"= '80444/xv4198'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4198'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4198'
-From action.php - {"where":"arkid","value":"= '80444/xv4198'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4198'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4198'
-From action.php - {"where":"arkid","value":"= '80444/xv4198'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4198'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4198'
-From action.php - {"where":"arkid","value":"= '80444/xv4198'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4198'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4198'
-From action.php - {"where":"arkid","value":"= '80444/xv4198'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4198'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4198'
-From action.php - {"where":"arkid","value":"= '80444/xv4198'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4198'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4198'
-From action.php - {"where":"arkid","value":"= '80444/xv4198'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4198'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4198'
-From action.php - {"where":"arkid","value":"= '80444/xv4198'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4198'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4198'
-From action.php - {"where":"arkid","value":"= '80444/xv4198'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4198'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4198'
-From action.php - {"where":"arkid","value":"= '80444/xv4198'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4198'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4198'
-From action.php - {"where":"arkid","value":"= '80444/xv4198'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4198'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4198'
-From action.php - {"where":"arkid","value":"= '80444/xv4198'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4198'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4198'
-From action.php - {"where":"arkid","value":"= '80444/xv4198'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4198'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4198'
-From action.php - {"where":"arkid","value":"= '80444/xv4198'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4198'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4198'
-From action.php - {"where":"arkid","value":"= '80444/xv4198'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4198'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4198'
-From action.php - {"where":"arkid","value":"= '80444/xv4198'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4198'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4198'
-From action.php - {"where":"arkid","value":"= '80444/xv4198'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4198'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4198'
 From action.php - {"where":"created","value":"IS NOT NULL"}
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
-From DB.php - SELECT * FROM repositories
-From DB.php - SELECT * FROM repositories
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
 From action.php - {"where":"created","value":"IS NOT NULL"}
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
 From action.php - {"where":"created","value":"IS NOT NULL"}
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
 From action.php - {"where":"created","value":"IS NOT NULL"}
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
-From action.php - {"where":"arkid","value":"= '80444/xv4674'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4674'
 From action.php - {"where":"created","value":"IS NOT NULL"}
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
 From action.php - {"where":"created","value":"IS NOT NULL"}
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs
-From DB.php - SELECT * FROM docs
 From action.php - {"where":"created","value":"IS NOT NULL"}
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
-From DB.php - SELECT * FROM users
-From DB.php - SELECT * FROM users
 From action.php - {"where":"created","value":"IS NOT NULL"}
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM repositories
-From DB.php - SELECT * FROM repositories
-From DB.php - SELECT * FROM docs
-From DB.php - SELECT * FROM docs
-From DB.php - SELECT * FROM repositories
-From DB.php - SELECT * FROM repositories
-From DB.php - SELECT * FROM users
-From DB.php - SELECT * FROM users
 From action.php - {"where":"created","value":"IS NOT NULL"}
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
 From action.php - {"where":"created","value":"IS NOT NULL"}
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
-From DB.php - SELECT * FROM docs WHERE created IS NOT NULL
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From action.php - {"where":"arkid","value":"= '80444/xv4801'"}
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
-From DB.php - SELECT * FROM docs WHERE arkid = '80444/xv4801'
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}
+From action.php - {"where":"created","value":"IS NOT NULL"}

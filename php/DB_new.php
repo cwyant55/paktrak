@@ -3,9 +3,6 @@
  * DB Class
  * This class is used for database related (connect, get, insert, update, and delete) operations
  * with PHP Data Objects (PDO)
- * @author    CodexWorld.com
- * @url       http://www.codexworld.com
- * @license   http://www.codexworld.com/license
  */
 class DB {
     // Database credentials
@@ -45,7 +42,9 @@ class DB {
             $i = 0;
             foreach($conditions['where'] as $key => $value){
                 $pre = ($i > 0)?' AND ':'';
-                $sql .= $pre.$key." = '".$value."'";
+//               this is the original line below
+//                $sql .= $pre.$key." = '".$value."'";
+                $sql .= $pre.$key." ".$value;
                 $i++;
             }
         }
@@ -92,12 +91,12 @@ class DB {
             $columns = '';
             $values  = '';
             $i = 0;
-            if(!array_key_exists('created',$data)){
-                $data['created'] = date("Y-m-d H:i:s");
-            }
-            if(!array_key_exists('modified',$data)){
-                $data['modified'] = date("Y-m-d H:i:s");
-            }
+            //if(!array_key_exists('created',$data)){
+            //    $data['created'] = date("Y-m-d H:i:s");
+            //}
+            //if(!array_key_exists('modified',$data)){
+            //    $data['modified'] = date("Y-m-d H:i:s");
+            //}
 
             $columnString = implode(',', array_keys($data));
             $valueString = ":".implode(',:', array_keys($data));
@@ -130,9 +129,9 @@ class DB {
             $colvalSet = '';
             $whereSql = '';
             $i = 0;
-            if(!array_key_exists('modified',$data)){
-                $data['modified'] = date("Y-m-d H:i:s");
-            }
+            //if(!array_key_exists('modified',$data)){
+            //    $data['modified'] = date("Y-m-d H:i:s");
+            //}
             foreach($data as $key=>$val){
                 $pre = ($i > 0)?', ':'';
                 $val = htmlspecialchars(strip_tags($val));
