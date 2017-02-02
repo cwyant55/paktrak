@@ -53,3 +53,16 @@ a.glyphicon{text-decoration: none;cursor: pointer;}
 .login {
   margin-right: 15px;
 }
+
+.fa {
+  font-size: 20px;
+}
+
+.nav-icons {
+  padding: 0 10px;
+}
+
+ul.dropdown-menu a {
+  letter-spacing: normal;
+  font-size: 12px;
+}

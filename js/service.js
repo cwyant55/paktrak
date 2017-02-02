@@ -85,7 +85,7 @@ angular.module("awApp").factory('dbService', function($http) {
 		var data = $.param({
         'data':tempData,
         'type':type,
-		'table':tableName
+				'table':tableName
         });
         var config = {
             headers : {
@@ -96,13 +96,13 @@ angular.module("awApp").factory('dbService', function($http) {
             if(response.status == 'OK'){
                 if(type == 'edituser'){
                     records.list[index].id = tempData.id;
-                    records.list[index].name = tempData.name;
-                    records.list[index].email = tempData.email;
+                    records.list[index].sent_from = tempData.sent_from;
+                    records.list[index].destination = tempData.destination;
                 }else{
                     records.list.push({
                         id:response.data.id,
-                        name:response.data.name,
-                        email:response.data.email,
+                        sent_from:response.data.sent_from,
+                        destination:response.data.destination,
                     });
 
                 }

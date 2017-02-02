@@ -49,6 +49,57 @@ angular.module("awApp").controller("userController", function($scope,$http,dbSer
 
 }); // userController
 
+
+//
+// searchController
+//
+angular.module("awApp").controller("shipController", function($scope,$http,dbService){
+    $scope.shipments = [];
+    $scope.tempShipData = {};
+
+	$scope.getRecords = function() {
+		$scope.shipments = dbService.getRecords('shipments');
+	}; // getRecords
+
+	$scope.deleteShipment = function(shipment) {
+	var conf = confirm('Are you sure to delete the shipment?');
+        if(conf === true){
+			// params: record variable, table name string
+			dbService.deleteRecord(shipment,'shipments')
+        }
+	}; // deleteShipment
+
+	$scope.saveShipment = function(type,index){
+		var tempData = $scope.tempShipData;
+		dbService.saveRecord(tempData,type,'shipments',index);
+		$scope.shipmentForm.$setPristine();
+        $scope.tempShipData = {};
+        //$('.formData').slideUp();
+	}; // saveShipment
+
+    $scope.addShipment = function(){
+		// parameter references switch type in action.php
+        $scope.saveShipment('addshipment');
+    }; // addShipment
+
+    $scope.editShipment = function(shipment){
+        $scope.tempShipmentData = {
+            id:shipment.id,
+            sent_from:shipment.sentfrom,
+            destination:shipment.destination,
+            barcodes:shipment.barcodes
+        };
+        $scope.index = $scope.shipments.list.indexOf(shipment);
+        $('.formData').slideDown();
+    }; // editShipment
+
+    $scope.updateShipment = function(index){
+		// include in function call in html; passes index to saveShipment()
+        $scope.saveShipment('editShipment',index);
+    }; //
+
+}); // shipController
+
 // searchController for Apache Solr
 angular.module("awApp").controller("searchController", function($scope,$http){
     $scope.results = [];
@@ -102,7 +153,7 @@ angular.module("awApp").controller("arkController", function($scope,$http,dbServ
 			var data = $.param({
             'data': $scope.temp,
             'type':'ark',
-			'table':'docs'
+			      'table':'docs'
         });
         var config = {
             headers : {

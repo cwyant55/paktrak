@@ -47,17 +47,18 @@ if(isset($_REQUEST['type']) && !empty($_REQUEST['type'])){
                 }
                 echo json_encode($data);
             break;
-        case "adduser":
+        case "addshipment":
             if(!empty($_POST['data'])){
-                $userData = array(
-                    'name' => $_POST['data']['name'],
-                    'email' => $_POST['data']['email']
+                $shipmentData = array(
+                    'sent_from' => $_POST['data']['sentfrom'],
+                    'destination' => $_POST['data']['destination']
+                    'barcodes' => $_POST['data']['barcodes']
                 );
-                $insert = $db->insert($tblName,$userData);
+                $insert = $db->insert($tblName,$shipmentData);
                 if($insert){
                     $data['data'] = $insert;
                     $data['status'] = 'OK';
-                    $data['msg'] = 'User data has been added successfully.';
+                    $data['msg'] = 'Shipment data has been added successfully.';
                 }else{
                     $data['status'] = 'ERR';
                     $data['msg'] = 'Some problem occurred, please try again.';
