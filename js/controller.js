@@ -47,20 +47,13 @@ angular.module("awApp").controller("userController", function($scope,$http,dbSer
         $scope.saveUser('edituser',index);
     }; //
 
-}); // userController
+    $scope.getUserLocation = function() {
+        var table = 'users';
+        var conditions = {'where': 'id', 'value': '= 1'};
+        $scope.records = dbService.getUserLocation(table,conditions);
+    }; // getUser
 
-// searchController for Apache Solr
-angular.module("awApp").controller("searchController", function($scope,$http){
-    $scope.results = [];
-    // function to get search results
-    $scope.getResults = function(){
-		var query = 'http://awjs.local/solr/awjs/select?q=' + $scope.keywords + '&wt=json';
-        $http.get(query).success(function(response){
-                $scope.results = response.response.docs;
-				console.log($scope.results);
-        });
-    };
-});	// Apache Solr controller
+}); // userController
 
 // formController
 angular.module("awApp").controller("formController", function($scope,$http){
@@ -86,70 +79,6 @@ angular.module("awApp").controller("formController", function($scope,$http){
 		});
 	};
 }); // formController
-
-//
-// ARK controller
-//
-angular.module("awApp").controller("arkController", function($scope,$http,dbService,$location){
-
-	// get records
-	$scope.getRecords = function(table) {
-		$scope.records = dbService.getRecords(table);
-	};
-
-// function to generate ARK request
-    $scope.arkRequest = function(){
-			var data = $.param({
-            'data': $scope.temp,
-            'type':'ark',
-			'table':'docs'
-        });
-        var config = {
-            headers : {
-                'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8;'
-            }
-        };
-        $http.post("/php/action.php", data, config).success(function(response){
-            if(response.status == 'OK'){
-                messageSuccess(response.msg);
-            }else{
-                messageError(response.msg);
-            }
-        });
-    };
-
-	// function to view document on tools page
-    $scope.viewDoc = function(){
-		console.log($scope.temp);
-		var docpath = '/upload/' + $scope.temp.ark.docname;
-        $http.get(docpath).success(function(response){
-			$('#docview > pre').html(response);
-			$('#docview').show();
-        });
-    };
-
-	// view doc with xsl
-	$scope.viewXML = function() {
-	   var docpath = '/upload/' + $scope.temp.ark.docname;
-        $http.get('/php/xml.php', {
-            params:{
-                'file': docpath
-				}
-        }).success(function(response){
-        $('#docview > pre').html(response);
-    		$('#docview').show();
-        });
-	};
-
-  // function to view document in search results
-    $scope.viewResult = function(){
-      var ark = "= " + "'" + $location.search()['ark'] + "'";
-          var table = 'docs';
-          var conditions = {'where': 'arkid', 'value': ark};
-          $scope.records = dbService.getXML(table,conditions);
-      }; // viewResult
-
-}); // ARK controller
 
 //
 // index controller (or whatever)

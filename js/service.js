@@ -37,28 +37,6 @@ angular.module("awApp").factory('dbService', function($http) {
 		return records;
 	}, // queryRecords
 
-	// function to return XML of document by ARK ID on View page
-	getXML : function(table,conditions) {
-			var cond = JSON.stringify(conditions);
-			$http.get('/php/action.php', {
-					params:{
-							'type':'query',
-							'table': table,
-							'conditions':cond
-					}
-			}).success(function(response){
-				// there should only be one result
-		records.docname = response.records[0].docname;
-		console.log(records.docname);
-		var docpath = '/upload/' + records.docname;
-		$http.get(docpath).success(function(response){
-			$('#docview > pre').html(response);
-			//$('#docview').show();
-	});
-			});
-	return records;
-}, // queryRecords
-
 		deleteRecord : function(record,tableName) {
 		var data = $.param({
                 'id': record.id,
@@ -111,8 +89,23 @@ angular.module("awApp").factory('dbService', function($http) {
                 messageError(response.msg);
             }
         });
-	} // saveRecord
+	}, // saveRecord
 
+	// function to get the current user's dropsite
+	getUserLocation : function(table,conditions) {
+			var cond = JSON.stringify(conditions);
+			$http.get('/php/action.php', {
+					params:{
+							'type':'getUserLocation',
+							'table': table,
+							'conditions':cond
+					}
+			}).success(function(response){
+		records.list = response.records;
+		console.log(records.list);
+			});
+	return records;
+}, // getUserLocation
 
 	} // return
 

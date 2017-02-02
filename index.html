@@ -20,7 +20,7 @@
 	<div id="main">
 	<!-- stuff goes here -->
 
-	<div class="container" ng-controller="indexController">
+	<div class="container">
 
 	<div class="row">
 	<div class="panel panel-default">
@@ -30,15 +30,7 @@
 		</div>
 		<div class="panel-body">
 
-		<div ng-init="getNewDocs()">
-		<div ng-repeat="record in records.list | orderBy:'-created'">
-		<b>{{record.docname}}</b> - Institution: {{record.inst}}<br/>
-		ARK: <a target="_self" href="/view.html?ark={{record.arkid}}">{{record.arkid}}</a><br/>
-		<p><i>Created: {{record.created}}</i></p>
-		</div>
-		</div>
-
-		<h3>My Google Maps Demo</h3>
+			<h3>My Google Maps Demo</h3>
      <div id="map"></div>
      <script>
        function initMap() {
