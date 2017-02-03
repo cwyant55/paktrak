@@ -101,13 +101,23 @@ if(isset($_REQUEST['type']) && !empty($_REQUEST['type'])){
             }
             echo json_encode($data);
             break;
-        case "getUserLocation":
+        case "getUserDropsites":
                   $user = $db->getRows($tblName,$conditions);
                   if($user){
                       $user = $db->getRows($tblName,$conditions);
-                      $sql = "= " . $user[0]['dropsite'];
+                      $dropsite = $user[0]['dropsite'];
+                      $inst = $user[0]['institution'];
+                      $sql = "= " . $dropsite;
                       $conditions = array('where' => array('id' => $sql));
-                      $data['records'] = $db->getRows('dropsites',$conditions);
+                      $data['records']['dropsite'] = $db->getRows('dropsites',$conditions);
+                      $instcond = "= " . $inst;
+                      $dropcond = "NOT LIKE " . $dropsite;
+                      $conditions = array('where' => array('inst' => $instcond, 'id' => $dropcond));
+                      $dropsites = $db->getRows('dropsites',$conditions);
+                      //unset($dropsites[0]);
+
+                      //$data['records']['dropsites'] = $db->getRows('dropsites',$conditions);
+                      $data['records']['dropsites'] = $dropsites;
                       $data['status'] = 'OK';
                   }else{
                       $data['records'] = array();

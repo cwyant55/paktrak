@@ -47,11 +47,15 @@ angular.module("awApp").controller("userController", function($scope,$http,dbSer
         $scope.saveUser('edituser',index);
     }; //
 
-    $scope.getUserLocation = function() {
+    $scope.getUserDropsites = function() {
         var table = 'users';
         var conditions = {'where': 'id', 'value': '= 1'};
-        $scope.records = dbService.getUserLocation(table,conditions);
+        $scope.records = dbService.queryRecords('getUserDropsites',table,conditions);
     }; // getUser
+
+    $scope.setUserDropsite = function(dropsite) {
+      console.log(dropsite);
+    };
 
 }); // userController
 
@@ -88,7 +92,7 @@ angular.module("awApp").controller("indexController", function($scope,$http,dbSe
 	$scope.getNewDocs = function() {
       var table = 'docs';
       var conditions = {'where': 'created', 'value': 'IS NOT NULL'};
-  		$scope.records = dbService.queryRecords(table,conditions);
+  		$scope.records = dbService.queryRecords(query,table,conditions);
 	}; // getNewDocs
 
   $scope.getRecords = function(table) {

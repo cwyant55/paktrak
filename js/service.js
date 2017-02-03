@@ -22,11 +22,11 @@ angular.module("awApp").factory('dbService', function($http) {
     }, // getRecords
 
 		// function to return all records with query parameters
-		queryRecords : function(table,conditions) {
+		queryRecords : function(type,table,conditions) {
 				var cond = JSON.stringify(conditions);
 				$http.get('/php/action.php', {
 						params:{
-								'type':'query',
+								'type': type,
 								'table': table,
 								'conditions':cond
 						}
@@ -90,22 +90,6 @@ angular.module("awApp").factory('dbService', function($http) {
             }
         });
 	}, // saveRecord
-
-	// function to get the current user's dropsite
-	getUserLocation : function(table,conditions) {
-			var cond = JSON.stringify(conditions);
-			$http.get('/php/action.php', {
-					params:{
-							'type':'getUserLocation',
-							'table': table,
-							'conditions':cond
-					}
-			}).success(function(response){
-		records.list = response.records;
-		console.log(records.list);
-			});
-	return records;
-}, // getUserLocation
 
 	} // return
 

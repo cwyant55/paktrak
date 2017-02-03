@@ -23,10 +23,13 @@
 
 			<li role="presentation" class="dropdown">
 				<a class="fa fa-map-marker dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" href="#" aria-expanded="false"></a>
-  <ul class="dropdown-menu" ng-controller="userController" ng-init="getUserLocation()">
-    <li><a href="#" target="_self">Current Location: {{records.list[0].name}}</a></li>
-    <li><a href="#" target="_self">Institution Info</a></li>
-    <li><a href="#" target="_self">Something else here</a></li>
+  <ul class="dropdown-menu" ng-controller="userController" >
+    <li ng-init="getUserDropsites()"><a href="#" target="_self">Current Location: {{records.list.dropsite[0].name}}</a></li>
+		<li role="separator" class="divider"></li>
+		<li class="dropdown-header">Change Location</li>
+		<li ng-repeat="record in records.list.dropsites">
+			<a href="" ng-click="setUserDropsite(record.name)">{{record.name}}</a>
+		</li>
   </ul>
 </li>
 
