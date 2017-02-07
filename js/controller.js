@@ -53,8 +53,12 @@ angular.module("awApp").controller("userController", function($scope,$http,dbSer
         $scope.records = dbService.queryRecords('getUserDropsites',table,conditions);
     }; // getUser
 
-    $scope.setUserDropsite = function(dropsite) {
-      console.log(dropsite);
+    $scope.setUserDropsite = function(user,dropsite) {
+      var tempData = {
+          id:user,
+          test:dropsite
+      };
+        dbService.saveRecord(tempData,'setUserDropsite','users');
     };
 
 }); // userController

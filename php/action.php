@@ -17,6 +17,7 @@ if (isset($_REQUEST['conditions'])) {
   $myfile = file_put_contents('logs.txt', $txt.PHP_EOL , FILE_APPEND | LOCK_EX);
 } // if
 
+// js var 'type' eq 'case' here
 if(isset($_REQUEST['type']) && !empty($_REQUEST['type'])){
     $type = $_REQUEST['type'];
     switch($type){
@@ -107,16 +108,13 @@ if(isset($_REQUEST['type']) && !empty($_REQUEST['type'])){
                       $user = $db->getRows($tblName,$conditions);
                       $dropsite = $user[0]['dropsite'];
                       $inst = $user[0]['institution'];
-                      $sql = "= " . $dropsite;
-                      $conditions = array('where' => array('id' => $sql));
+                        $sql = "= " . $dropsite;
+                        $conditions = array('where' => array('id' => $sql));
                       $data['records']['dropsite'] = $db->getRows('dropsites',$conditions);
-                      $instcond = "= " . $inst;
-                      $dropcond = "NOT LIKE " . $dropsite;
+                        $instcond = "= " . $inst;
+                        $dropcond = "NOT LIKE " . $dropsite;
                       $conditions = array('where' => array('inst' => $instcond, 'id' => $dropcond));
                       $dropsites = $db->getRows('dropsites',$conditions);
-                      //unset($dropsites[0]);
-
-                      //$data['records']['dropsites'] = $db->getRows('dropsites',$conditions);
                       $data['records']['dropsites'] = $dropsites;
                       $data['status'] = 'OK';
                   }else{
@@ -125,6 +123,26 @@ if(isset($_REQUEST['type']) && !empty($_REQUEST['type'])){
                   }
                   echo json_encode($data);
               break;
+          case "setUserDropsite":
+                  if(!empty($_POST['data'])){
+                      $userData = array(
+                          'dropsite' => $_POST['data']['test']
+                        );
+                      $condition = array('id' => $_POST['data']['id']);
+                      $update = $db->update($tblName,$userData,$condition);
+                      if($update){
+                          $data['status'] = 'OK';
+                          $data['msg'] = 'User data has been updated successfully.';
+                      }else{
+                          $data['status'] = 'ERR';
+                          $data['msg'] = 'Some problem occurred, please try again.';
+                      }
+                  }else{
+                      $data['status'] = 'ERR';
+                      $data['msg'] = 'Some problem occurred, please try again.';
+                  }
+                  echo json_encode($data);
+                  break;
         default:
             echo '{"status":"INVALID"}';
     }

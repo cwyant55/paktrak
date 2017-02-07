@@ -63,7 +63,7 @@ angular.module("awApp").factory('dbService', function($http) {
 		var data = $.param({
         'data':tempData,
         'type':type,
-		'table':tableName
+				'table':tableName
         });
         var config = {
             headers : {
@@ -77,12 +77,11 @@ angular.module("awApp").factory('dbService', function($http) {
                     records.list[index].name = tempData.name;
                     records.list[index].email = tempData.email;
                 }else{
-                    records.list.push({
-                        id:response.data.id,
-                        name:response.data.name,
-                        email:response.data.email,
-                    });
-
+                    //records.list.push({
+                    //    id:response.data.id,
+                    //    name:response.data.name,
+                    //    email:response.data.email,
+                    //});
                 }
                 messageSuccess(response.msg);
             }else{
